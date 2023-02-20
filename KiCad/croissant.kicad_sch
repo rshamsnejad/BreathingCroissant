@@ -2499,7 +2499,7 @@
   (symbol (lib_id "Amplifier_Operational:TL064") (at 88.9 67.31 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6725ba6b-2f26-4866-9796-21df68ab2f42)
-    (property "Reference" "U3" (at 87.63 66.675 0)
+    (property "Reference" "U2" (at 87.63 66.675 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TL064" (at 87.63 69.215 0)
@@ -2528,7 +2528,7 @@
     (instances
       (project "croissant"
         (path "/9d4c4425-9345-4751-a711-72e95f2cc96d"
-          (reference "U3") (unit 5)
+          (reference "U2") (unit 5)
         )
       )
     )
@@ -3081,7 +3081,7 @@
     (property "Value" "NE556" (at 225.4759 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 223.52 132.08 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (at 223.52 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne556.pdf" (at 223.52 132.08 0)
@@ -3379,7 +3379,7 @@
     (property "Value" "NE556" (at 47.6759 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 45.72 132.08 0)
+    (property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (at 45.72 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne556.pdf" (at 45.72 132.08 0)
