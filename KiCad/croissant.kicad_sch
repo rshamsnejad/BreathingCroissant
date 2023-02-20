@@ -4008,7 +4008,7 @@
     (property "Value" "SW_SPDT" (at 60.96 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 60.96 55.88 0)
+    (property "Footprint" "croissant:JS102011JCQN" (at 60.96 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 60.96 55.88 0)

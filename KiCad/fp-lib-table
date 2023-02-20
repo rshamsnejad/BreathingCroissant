@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "croissant")(type "KiCad")(uri "${KIPRJMOD}/croissant.pretty")(options "")(descr ""))
+)
