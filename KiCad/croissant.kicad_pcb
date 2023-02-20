@@ -93,6 +93,8 @@
     )
   )
 
+  (property "RefBoard" "CU01001A1")
+
   (net 0 "")
   (net 1 "+5V")
   (net 2 "GND")
@@ -134,7 +136,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 02c4c6ec-48a8-42e4-9e9c-9957dc6ddbd5)
-    (at 51.7125 50.23)
+    (at 28.8125 55.45)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -188,7 +190,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 0372399c-e002-4702-bb9e-a134f8e95813)
-    (at 55.7225 55.25)
+    (at 32.8225 60.47)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -242,7 +244,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 068e16b9-1ec0-4715-ba20-ea328ed921ef)
-    (at 51.7125 55.25)
+    (at 28.8125 60.47)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -296,7 +298,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 06da486b-2878-48bb-a8ea-e1db22b145a1)
-    (at 55.7225 35.17)
+    (at 32.8225 40.39)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -350,7 +352,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 08ddbfa6-08ee-4490-9666-f31a4d1b4555)
-    (at 67.7925 55.78)
+    (at 99.3025 48.26)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -408,7 +410,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 0904f0be-91d2-4411-b319-c1aacdcfe0f0)
-    (at 67.7925 58.37)
+    (at 99.3025 50.85)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -466,7 +468,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 0907260b-3c38-40c7-a312-8a3b8bc6c7b4)
-    (at 75.8925 50.6)
+    (at 107.4025 43.08)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -524,7 +526,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 0d6da556-5dc1-402e-87b6-83b0d21ab5e1)
-    (at 63.7425 37.68)
+    (at 40.8425 42.9)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -578,7 +580,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 169c9cb2-70a2-4a61-945b-55476b418d99)
-    (at 51.7125 47.72)
+    (at 28.8125 52.94)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -632,7 +634,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 1fbe1b50-e445-491c-87d1-72edb75bab86)
-    (at 55.7225 42.7)
+    (at 32.8225 47.92)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -686,7 +688,7 @@
 
   (footprint "Capacitor_SMD:CP_Elec_4x3" (layer "F.Cu")
     (tstamp 2461e545-1b24-4ae4-b942-f16753e429d7)
-    (at 79.48 58.42)
+    (at 56.58 63.64)
     (descr "SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3mm")
     (tags "capacitor electrolytic")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -786,7 +788,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 2774f3c9-8114-4c39-bd24-4bdbf33c25d9)
-    (at 63.7425 45.21)
+    (at 40.8425 50.43)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -840,7 +842,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 2af85eb3-e637-440f-b688-0f1645627b00)
-    (at 67.7925 48.01)
+    (at 99.3025 40.49)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -898,7 +900,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 2e36d949-1359-439b-8238-c55418acb068)
-    (at 59.7325 40.19)
+    (at 36.8325 45.41)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -952,7 +954,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 32a2adaf-d673-4958-a395-7a1929fcbec4)
-    (at 59.7325 50.23)
+    (at 36.8325 55.45)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1006,7 +1008,7 @@
 
   (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (layer "F.Cu")
     (tstamp 3e7f75b7-f2ab-489d-a1c8-7a3e229827cb)
-    (at 78.4225 39.02)
+    (at 55.5225 44.24)
     (descr "SOIC, 14 Pin (JEDEC MS-012AB, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1090,7 +1092,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-23" (layer "F.Cu")
     (tstamp 3fa4112e-8724-4c28-9ab9-40e1b6fcd4ef)
-    (at 80.3425 46.35)
+    (at 57.4425 51.57)
     (descr "SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1155,7 +1157,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 42c5416f-c363-4de2-a0ce-7ce92b17de0c)
-    (at 71.8425 48.01)
+    (at 103.3525 40.49)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1213,7 +1215,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 47855fca-305e-44a3-877b-ab12ada74d68)
-    (at 67.7925 53.19)
+    (at 99.3025 45.67)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1271,7 +1273,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 52d558d8-ba26-43c5-9347-33b275bd76ca)
-    (at 51.7125 52.74)
+    (at 28.8125 57.96)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1325,7 +1327,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 58a77577-c27a-4e0e-a42f-db5b81f4769a)
-    (at 71.8425 55.78)
+    (at 103.3525 48.26)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1383,7 +1385,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 5e1a036b-9dd3-4db2-982b-b979602f2fca)
-    (at 59.7325 47.72)
+    (at 36.8325 52.94)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1437,7 +1439,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 69413eaf-5b29-4c94-ad98-2aa01e99804e)
-    (at 55.7225 40.19)
+    (at 32.8225 45.41)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1491,7 +1493,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 6a5bb3d9-1128-4268-8cfe-f296ce681253)
-    (at 59.7325 45.21)
+    (at 36.8325 50.43)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1545,7 +1547,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 768cf013-34f8-4bbd-b8ad-d58fcd88deec)
-    (at 51.7125 42.7)
+    (at 28.8125 47.92)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1599,7 +1601,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 7ef25044-e3a3-4ed6-a0b8-dc22450eef10)
-    (at 55.7225 52.74)
+    (at 32.8225 57.96)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1653,7 +1655,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 80093150-b9de-4476-a042-3246b6027526)
-    (at 59.7325 37.68)
+    (at 36.8325 42.9)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1707,7 +1709,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 80903092-a4ca-4398-9859-f19261c45cb9)
-    (at 75.8925 45.42)
+    (at 107.4025 37.9)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1765,7 +1767,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 8218928b-1ffa-4bc6-a111-ed240b2015ce)
-    (at 71.8425 50.6)
+    (at 103.3525 43.08)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1823,7 +1825,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 82ef943e-5477-4acf-b57b-c68385de7493)
-    (at 55.7225 45.21)
+    (at 32.8225 50.43)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1877,7 +1879,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 88bf8284-491c-410b-bb46-cbad14921cf6)
-    (at 71.8425 53.19)
+    (at 103.3525 45.67)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1935,7 +1937,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp 8d153afe-d097-40b5-8a69-f1c6d7feeb21)
-    (at 75.8925 48.01)
+    (at 107.4025 40.49)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -1993,7 +1995,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 8e38adae-474f-4edf-867c-355c09552a86)
-    (at 63.7425 40.19)
+    (at 40.8425 45.41)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2047,7 +2049,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp 91fff46a-3877-4ae9-bf9b-9f6f703808f4)
-    (at 51.7125 35.17)
+    (at 28.8125 40.39)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2101,7 +2103,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp 9f3aaca7-137d-4f14-a5f4-99a108e56f84)
-    (at 63.7425 42.7)
+    (at 40.8425 47.92)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2155,7 +2157,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp a538dc54-f56e-41e8-99d2-87dddb55c655)
-    (at 55.7225 50.23)
+    (at 32.8225 55.45)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2209,7 +2211,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp a6cadc67-6547-429a-aec1-11b3e8b40be3)
-    (at 71.8425 45.42)
+    (at 103.3525 37.9)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2267,7 +2269,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp acc9b7d8-1ef4-4c6f-a2bb-d0dcc740d548)
-    (at 59.7325 42.7)
+    (at 36.8325 47.92)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2321,7 +2323,7 @@
 
   (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm" (layer "F.Cu")
     (tstamp b2fb6a66-b389-4561-9cac-6b9a45c95efb)
-    (at 69.9725 39.02)
+    (at 47.0725 44.24)
     (descr "SOIC, 14 Pin (JEDEC MS-012AB, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_14.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2405,7 +2407,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp b42dd134-ffb4-4758-878b-388267028051)
-    (at 55.7225 37.68)
+    (at 32.8225 42.9)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2459,7 +2461,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp b5c028ab-1e16-42e2-99a1-4853dd07dfa8)
-    (at 55.7225 47.72)
+    (at 32.8225 52.94)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2513,7 +2515,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp bbaa59de-9102-46b4-9e4d-6639b321f791)
-    (at 59.7325 52.74)
+    (at 36.8325 57.96)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2567,7 +2569,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp bd704c4f-0209-4c53-9546-e51277c4ad38)
-    (at 67.7925 45.42)
+    (at 99.3025 37.9)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2625,7 +2627,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp c500e2e7-88e8-48e7-af1c-eb1c1078d7bf)
-    (at 67.7925 50.6)
+    (at 99.3025 43.08)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2683,7 +2685,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp c59a19f8-5c55-480a-a184-1322ce8981b3)
-    (at 59.7325 55.25)
+    (at 36.8325 60.47)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2737,7 +2739,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp ca33c1c2-1768-4eb6-88bb-0bab93df0604)
-    (at 59.7325 35.17)
+    (at 36.8325 40.39)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2791,7 +2793,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp d52569c4-3816-4c4a-9bdc-32a5d4d28a96)
-    (at 51.7125 45.21)
+    (at 28.8125 50.43)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2845,7 +2847,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tstamp d5bac7ad-5310-4416-bff7-dee1eb94a212)
-    (at 63.7425 35.17)
+    (at 40.8425 40.39)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2899,7 +2901,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tstamp e59ff658-3ae6-4041-92a7-89384538a9ca)
-    (at 71.8425 58.37)
+    (at 103.3525 50.85)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -2957,7 +2959,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp e9ccabc4-52fc-49fe-aafe-a8289b5b660c)
-    (at 51.7125 37.68)
+    (at 28.8125 42.9)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -3011,7 +3013,7 @@
 
   (footprint "croissant:JS102011JCQN" (layer "F.Cu")
     (tstamp eae324e0-db89-486a-ae94-c6ac12e30518)
-    (at 86.44 53.34)
+    (at 45.72 58.42)
     (property "Sheetfile" "croissant.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Switch, single pole double throw")
@@ -3046,7 +3048,7 @@
 
   (footprint "Connector_USB:USB_C_Receptacle_GCT_USB4135-GF-A_6P_TopMnt_Horizontal" (layer "F.Cu")
     (tstamp f350c62d-05e3-4a8b-9142-87fdc554d142)
-    (at 56.7825 61.23)
+    (at 37.85 71.7525)
     (descr "USB Type C Receptacle, GCT, power-only, 6P, top mounted, horizontal, 3A: https://gct.co/files/drawings/usb4135.pdf")
     (tags "USB C Type-C Receptacle SMD USB Power-only Charging-only 6P 6C USB4135-GF-A")
     (property "Sheetfile" "croissant.kicad_sch")
@@ -3144,7 +3146,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tstamp f75ea563-4b2e-4642-8242-f2c126d1c0a5)
-    (at 51.7125 40.19)
+    (at 28.8125 45.41)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "croissant.kicad_sch")
