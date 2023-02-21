@@ -4717,6 +4717,9 @@
   (gr_text "JLCJLCJLCJLC" (at 150.5 98.5) (layer "B.SilkS") (tstamp 68e0a92c-16dd-40d4-aac6-ff7eb337ff42)
     (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom mirror))
   )
+  (gr_text "${RefBoard}" (at 149.25 102.25) (layer "B.SilkS") (tstamp e7040853-c5b6-43b3-a84e-f343524a1aee)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
+  )
 
   (segment (start 147.36 61) (end 147.32 60.96) (width 0.25) (layer "B.Cu") (net 1) (tstamp 05a32a9f-33b2-4810-a8d6-d183c42ee647))
   (segment (start 151.35 73.66) (end 151.35 76.9) (width 0.25) (layer "B.Cu") (net 1) (tstamp 0752d0b1-7d50-4277-9b4b-54a2296cb685))
